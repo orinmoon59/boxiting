@@ -1,7 +1,7 @@
 # Section06
 # 파이썬 함수식 및 람다(lambda)
 
-# 함수 정의 방법
+# 함수 정의 방법은...?
 # def function_name(parameter):
 #     code
 
